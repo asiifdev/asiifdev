@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiifdev" alt="asiifdev" /></a> </p>
 
-- 🔭 I’m currently working on **7Smarts**
+- 🔭 I’m currently working on **Wetalk.id**
 
-- 🌱 I’m currently learning **ReactJS, Flutter, NuxtJS.**
+- 🌱 I’m currently learning **ReactJS, Flutter, NuxtJS, Express JS.**
 
 - 👨‍💻 All of my projects are available at [https://asiifdev.com](https://asiifdev.com)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Backend Engineering**
 
 - 📫 How to reach me **asiif.anwar3@gmail.com**
 
