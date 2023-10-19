@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syaiful Anwar</h1>
-<h3 align="center">A passionate laravel developer from Indonesia</h3>
+<h3 align="center">A passionate laravel developer from Indonesia 🇲🇨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiifdev&label=Profile%20views&color=0e75b6&style=flat" alt="asiifdev" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Wetalk.id**
 
-- 🌱 I’m currently learning **ReactJS, Flutter, NuxtJS, Express JS.**
+- 🌱 I’m currently learning **ReactJS, Flutter, VueJS, Express JS.**
 
 - 👨‍💻 All of my projects are available at [https://asiifdev.com](https://asiifdev.com)
 
-- 💬 Ask me about **Backend Engineering**
+- 💬 Ask me about **Fullstack Engineering**
 
 - 📫 How to reach me **asiif.anwar3@gmail.com**
 
