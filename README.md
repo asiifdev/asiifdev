@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.svg" width="100%" alt="Asiifdev profile banner" />
+  <img src="assets/profile-banner.svg" width="100%" alt="Asiifdev profile banner" />
 
   <a href="https://asiifdev.com"><img src="https://img.shields.io/badge/Company-ASIIFDEV-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ASIIFDEV website" /></a>
   <a href="https://www.linkedin.com/in/asiifdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
