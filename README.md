@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Asiifdev&fontSize=76&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%26%20Lead%20Engineer%20%7C%20AI%20%26%20Software%20Builder&descAlignY=58&descSize=17" width="100%" alt="Asiifdev profile banner" />
+  <img src="assets/banner.svg" width="100%" alt="Asiifdev profile banner" />
 
   <a href="https://asiifdev.com"><img src="https://img.shields.io/badge/Company-ASIIFDEV-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ASIIFDEV website" /></a>
   <a href="https://www.linkedin.com/in/asiifdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -118,8 +118,6 @@ Open-source lead research and outreach automation for local businesses.
 
 <div align="center">
 
-  <a href="https://github.com/asiifdev/business-leads-ai-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asiifdev&repo=business-leads-ai-automation&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Business Leads AI Automation repository card" /></a>
-  <br/>
   <a href="https://github.com/asiifdev/business-leads-ai-automation/stargazers"><img src="https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social" alt="GitHub stars" /></a>
   <a href="https://github.com/asiifdev/business-leads-ai-automation/network/members"><img src="https://img.shields.io/github/forks/asiifdev/business-leads-ai-automation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/asiifdev/business-leads-ai-automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue" alt="AGPL 3.0 license" /></a>
@@ -129,9 +127,6 @@ Open-source lead research and outreach automation for local businesses.
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asiifdev&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiifdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=asiifdev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
@@ -153,6 +148,6 @@ If you're exploring AI implementation, custom business software, or engineering 
   <sub>⭐ Found something useful? A star on a repo goes a long way.</sub>
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer" width="100%" alt="Profile footer" />
+  <img src="assets/footer.svg" width="100%" alt="Profile footer" />
 
 </div>
