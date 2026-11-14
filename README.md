@@ -127,6 +127,8 @@ Open-source lead research and outreach automation for local businesses.
 ## 📊 GitHub at a glance
 
 <div align="center">
+  <img src="assets/github-stats.svg" width="100%" alt="GitHub stats: repos, stars, forks, followers and top languages" />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=asiifdev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
