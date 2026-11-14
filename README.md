@@ -5,11 +5,19 @@
   <a href="https://asiifdev.com"><img src="https://img.shields.io/badge/Company-ASIIFDEV-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ASIIFDEV website" /></a>
   <a href="https://www.linkedin.com/in/asiifdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:admin@asiifdev.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/asiifdev"><img src="https://img.shields.io/badge/WhatsApp-Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" /></a>
+  <a href="https://github.com/asiifdev?tab=followers"><img src="https://img.shields.io/github/followers/asiifdev?style=for-the-badge&logo=github&label=Followers&color=1D4ED8" alt="GitHub followers" /></a>
 
   <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Engineering+%7C+Business+Software;Backend+Architecture+%7C+Product+Engineering;Process+first.+Technology+second." alt="AI engineering, business software, backend architecture" />
+
+  <p>
+    <a href="#-what-i-build">What I build</a> ·
+    <a href="#-products--systems">Products</a> ·
+    <a href="#%EF%B8%8F-tech-stack">Stack</a> ·
+    <a href="#-open-source">Open source</a> ·
+    <a href="#-lets-build-something-useful">Contact</a>
+  </p>
 
 </div>
 
@@ -22,6 +30,8 @@ I'm **Muhammad Syaiful Anwar** — software engineer, founder, and hands-on tech
 I design and build systems that solve operational problems: from backend platforms and custom business applications to AI agents, RAG assistants, and workflow automation.
 
 > **Process first, technology second.** AI is not the answer to every problem. The right solution starts with understanding the work.
+
+🇮🇩 *Saya membantu bisnis di Indonesia mengubah proses kerja yang manual menjadi sistem yang rapi, mulai dari aplikasi bisnis custom, otomasi WhatsApp, sampai AI agent.*
 
 <div align="center">
 
@@ -108,7 +118,9 @@ Open-source lead research and outreach automation for local businesses.
 
 <div align="center">
 
-  <a href="https://github.com/asiifdev/business-leads-ai-automation"><img src="https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/asiifdev/business-leads-ai-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=asiifdev&repo=business-leads-ai-automation&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Business Leads AI Automation repository card" /></a>
+  <br/>
+  <a href="https://github.com/asiifdev/business-leads-ai-automation/stargazers"><img src="https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social" alt="GitHub stars" /></a>
   <a href="https://github.com/asiifdev/business-leads-ai-automation/network/members"><img src="https://img.shields.io/github/forks/asiifdev/business-leads-ai-automation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/asiifdev/business-leads-ai-automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue" alt="AGPL 3.0 license" /></a>
 
@@ -117,12 +129,10 @@ Open-source lead research and outreach automation for local businesses.
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asiifdev&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiifdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asiifdev&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiifdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=asiifdev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=asiifdev&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
 </div>
 
 ---
@@ -138,7 +148,9 @@ If you're exploring AI implementation, custom business software, or engineering 
   <a href="https://www.linkedin.com/in/asiifdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
   <br/><br/>
-  <sub>Built in Indonesia 🇮🇩 · Remote collaboration · Indonesian & English</sub>
+  <sub>Built in Indonesia 🇮🇩 · Remote collaboration · Indonesian &amp; English</sub>
+  <br/>
+  <sub>⭐ Found something useful? A star on a repo goes a long way.</sub>
 
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=110&section=footer" width="100%" alt="Profile footer" />
