@@ -1,153 +1,44 @@
-<div align="center">
+# Muhammad Syaiful Anwar
 
-  <img src="assets/profile-banner.svg" width="100%" alt="Asiifdev profile banner" />
+**Software & AI Systems Engineer** · remote · Indonesia (UTC+7)
 
-  <a href="https://asiifdev.com"><img src="https://img.shields.io/badge/Company-ASIIFDEV-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ASIIFDEV website" /></a>
-  <a href="https://www.linkedin.com/in/asiifdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:admin@asiifdev.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/asiifdev?tab=followers"><img src="https://img.shields.io/github/followers/asiifdev?style=for-the-badge&logo=github&label=Followers&color=1D4ED8" alt="GitHub followers" /></a>
+[Website](https://www.muhammadsyaifulanwar.online/) · [Hire me](https://www.muhammadsyaifulanwar.online/hire/) · [LinkedIn](https://www.linkedin.com/in/asiifdev/) · [Resume (PDF)](https://www.muhammadsyaifulanwar.online/cv/Muhammad-Syaiful-Anwar-Resume-EN.pdf) · [CV (PDF)](https://www.muhammadsyaifulanwar.online/cv/Muhammad-Syaiful-Anwar-CV-EN.pdf)
 
-  <br/>
+I design, build and run production software end to end: full-stack products, AI agents and RAG assistants, mobile apps and the servers behind them. Eight roles since 2022 and more than twenty projects, including two apps live on Google Play and an open-source tool with 247 GitHub stars.
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+Engineering+%7C+Business+Software;Backend+Architecture+%7C+Product+Engineering;Process+first.+Technology+second." alt="AI engineering, business software, backend architecture" />
+> Open to remote full-time roles, freelance projects and collaboration. Bahasa Indonesia and English.
 
-  <p>
-    <a href="#-what-i-build">What I build</a> ·
-    <a href="#-products--systems">Products</a> ·
-    <a href="#%EF%B8%8F-tech-stack">Stack</a> ·
-    <a href="#-open-source">Open source</a> ·
-    <a href="#-lets-build-something-useful">Contact</a>
-  </p>
+## What I build
 
-</div>
-
----
-
-## 👋 About
-
-I'm **Muhammad Syaiful Anwar** — software engineer, founder, and hands-on technical lead at **[PT Asiifdev Digital Agency](https://asiifdev.com/)**, an Indonesia-based AI engineering and software development company.
-
-I design and build systems that solve operational problems: from backend platforms and custom business applications to AI agents, RAG assistants, and workflow automation.
-
-> **Process first, technology second.** AI is not the answer to every problem. The right solution starts with understanding the work.
-
-🇮🇩 *Saya membantu bisnis di Indonesia mengubah proses kerja yang manual menjadi sistem yang rapi, mulai dari aplikasi bisnis custom, otomasi WhatsApp, sampai AI agent.*
-
-<div align="center">
-
-| 🏢 Company | 📍 Based in | 🌏 Delivery |
-|:---:|:---:|:---:|
-| [PT Asiifdev Digital Agency](https://asiifdev.com/) | Boyolali, Central Java, Indonesia | Remote · Indonesia & worldwide |
-
-</div>
-
-## 🧭 What I build
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI Engineering</h3>
-      AI agents, tool calling, RAG, knowledge assistants, speech-to-text, predictive ML, and human-in-the-loop workflows.
-    </td>
-    <td width="50%">
-      <h3>⚙️ Business Automation</h3>
-      WhatsApp workflows, sales operations, document processing, API integrations, and internal automation.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧱 Product Engineering</h3>
-      SaaS platforms, custom web applications, dashboards, APIs, commerce systems, and mobile applications.
-    </td>
-    <td width="50%">
-      <h3>👨‍💻 Engineering Teams</h3>
-      Dedicated engineers, project squads, and IT outsourcing led by an ASIIFDEV lead engineer.
-    </td>
-  </tr>
-</table>
-
-## 🚀 Products & systems
-
-A mix of ASIIFDEV-developed products and client implementations. Each link provides the current product or project context.
-
-| Product / System | What it does |
+| Discipline | Focus |
 |---|---|
-| [**ReachAI**](https://reachai.asiifdev.com) | WhatsApp-based sales and billing workspace: unified inbox, AI replies, CRM pipeline, proposals, invoices, and payment verification. |
-| [**Orbyte**](https://ai-business.asiifdev.com) | AI business operating system for agencies and software houses: clients, subscriptions, invoices, leads, tasks, and AI-drafted next steps. |
-| [**Serbuu!**](https://serbuu.web.id) | Commerce platform combining in-store POS, online shop, marketplace channels, and shared inventory. |
-| [**INVLY.ID**](https://invly.id) | Rental business management: catalogue, booking, transactions, and operational workflows. |
-| [**AlatPintar**](https://alatpintar.id) | Local-business research and outreach workflow with AI-assisted message drafting and human approval. |
-| [**Votein**](https://votein.id) | Digital voting platform with identity verification, live results, and audit trails. |
-| [**Hikam Shughro**](https://hikam-shughro.web.id) | Organisation application with a reference-grounded RAG assistant and AI-assisted meeting minutes. |
-| [**Shiha Prestige**](https://shiha-prestige.com) | Sales and multi-branch management system. |
+| **AI engineering** | LLM agents with tool calling, RAG, speech-to-text, generative features, predictive ML and reinforcement learning, human-in-the-loop workflows |
+| **Software engineering** | Python (Flask, FastAPI), Node.js (Express, Fastify, NestJS), Laravel, Next.js, PostgreSQL, MySQL, Redis |
+| **SaaS architecture** | Multi-tenant workspaces, role-based access, billing and payments, queues and realtime |
+| **Mobile** | Flutter and Expo, Google Play releases, WhatsApp OTP login |
+| **DevOps** | Linux servers, Nginx, Docker, PM2, GitHub Actions CI/CD |
+| **Blockchain** | Solidity and Hardhat, Circom and zkVerify (testnet prototype) |
 
-<div align="center">
+## Selected work
 
-  <a href="https://asiifdev.com/portfolio"><img src="https://img.shields.io/badge/Explore-Full%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore full portfolio" /></a>
+Every case study lists what it does, how it is built and numbers counted in the repository: [see all work](https://www.muhammadsyaifulanwar.online/work/).
 
-</div>
+| Project | What it is |
+|---|---|
+| [ReachAI](https://www.muhammadsyaifulanwar.online/work/reachai/) | WhatsApp workspace where AI drafts replies from a knowledge base, with CRM, proposals and invoices |
+| [AlatPintar](https://www.muhammadsyaifulanwar.online/work/alatpintar/) | Finds local prospects on Google Maps and drafts the first message; a person approves before anything is sent |
+| [Hikam Shughro](https://www.muhammadsyaifulanwar.online/work/hikam-shughro/) | Flutter app on Google Play with a citation-based RAG assistant and Whisper meeting minutes |
+| [Orbyte](https://www.muhammadsyaifulanwar.online/work/orbyte/) | AI operations manager for agencies, built for the Meta Global AI Developer Hackathon |
+| [Serbuu!](https://www.muhammadsyaifulanwar.online/work/serbuu/) | POS, online shop and marketplace on one shared stock |
+| [INVLY.ID](https://www.muhammadsyaifulanwar.online/work/invly/) | Rental management with a POS, multi-branch stock and online booking |
+| [Votein](https://www.muhammadsyaifulanwar.online/work/votein/) | Online voting for organisations with live results |
 
-## 🛠️ Tech stack
+## Open source
 
-<div align="center">
+- [business-leads-ai-automation](https://github.com/asiifdev/business-leads-ai-automation): the open-source edition of AlatPintar (AGPL), 247 stars
+- [business-ai-operation](https://github.com/asiifdev/business-ai-operation): Orbyte
+- [adforge-ai](https://github.com/asiifdev/adforge-ai): AI ad-creative generator
 
-  <h4>Languages & Backend</h4>
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,laravel,nodejs,nestjs,express,django,flask" alt="PHP JavaScript TypeScript Python Laravel Node.js NestJS Express Django Flask" />
+## Contact
 
-  <h4>Frontend & Mobile</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter" alt="React Next.js Tailwind HTML CSS Flutter" />
-
-  <h4>Data, Infrastructure & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,linux,nginx,cloudflare,git,github" alt="PostgreSQL MySQL Redis MongoDB Docker Linux Nginx Cloudflare Git GitHub" />
-
-  <h4>AI & Automation</h4>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch TensorFlow" />
-
-</div>
-
-## 🌱 Open source
-
-### [Business Leads AI Automation / Prospex](https://github.com/asiifdev/business-leads-ai-automation)
-
-Open-source lead research and outreach automation for local businesses.
-
-- Discover and enrich local-business leads.
-- Draft personalized outreach with AI.
-- Review, edit, approve, or reject messages before sending.
-- Self-host under the project's AGPL license.
-
-<div align="center">
-
-  <a href="https://github.com/asiifdev/business-leads-ai-automation/stargazers"><img src="https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social" alt="GitHub stars" /></a>
-  <a href="https://github.com/asiifdev/business-leads-ai-automation/network/members"><img src="https://img.shields.io/github/forks/asiifdev/business-leads-ai-automation?style=social" alt="GitHub forks" /></a>
-  <a href="https://github.com/asiifdev/business-leads-ai-automation/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue" alt="AGPL 3.0 license" /></a>
-
-</div>
-
-## 📊 GitHub at a glance
-
-<div align="center">
-  <img src="assets/github-stats.svg" width="100%" alt="GitHub stats: repos, stars, forks, followers and top languages" />
-</div>
-
----
-
-## 🤝 Let's build something useful
-
-If you're exploring AI implementation, custom business software, or engineering team support, let's talk about the workflow and the problem first.
-
-<div align="center">
-
-  <a href="https://asiifdev.com"><img src="https://img.shields.io/badge/Website-asiifdev.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://wa.me/asiifdev"><img src="https://img.shields.io/badge/WhatsApp-Start%20a%20conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/asiifdev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-  <br/><br/>
-  <sub>Built in Indonesia 🇮🇩 · Remote collaboration · Indonesian &amp; English</sub>
-  <br/>
-  <sub>⭐ Found something useful? A star on a repo goes a long way.</sub>
-
-  <br/>
-  <img src="assets/footer.svg" width="100%" alt="Profile footer" />
-
-</div>
+The fastest way is the [contact page](https://www.muhammadsyaifulanwar.online/hire/): each option opens an email that is already pre-filled.
