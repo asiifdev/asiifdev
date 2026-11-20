@@ -2,7 +2,7 @@
 <rect width="854" height="576" rx="14" fill="#1A1B27"/>
 <text x="32" y="46" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#70A5FD">GitHub at a glance</text>
 <text x="32" y="66" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" fill="#565F89">@asiifdev · member since 2019</text>
-<text x="822" y="46" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">updated 2026-11-19 UTC</text>
+<text x="822" y="46" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">updated 2026-11-20 UTC</text>
 <rect x="32.0" y="88" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="32.0" y="104" width="3" height="56" rx="1.5" fill="#38BDF8"/>
 <text x="50.0" y="114" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">PUBLIC REPOS</text>
@@ -11,7 +11,7 @@
 <rect x="232.5" y="88" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="232.5" y="104" width="3" height="56" rx="1.5" fill="#FBBF24"/>
 <text x="250.5" y="114" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">STARS EARNED</text>
-<text x="250.5" y="144" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">255</text>
+<text x="250.5" y="144" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">256</text>
 <text x="250.5" y="163" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">across public repos</text>
 <rect x="433.0" y="88" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="433.0" y="104" width="3" height="56" rx="1.5" fill="#34D399"/>
@@ -26,13 +26,13 @@
 <rect x="32.0" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="32.0" y="204" width="3" height="56" rx="1.5" fill="#818CF8"/>
 <text x="50.0" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">TOTAL CONTRIBUTIONS</text>
-<text x="50.0" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">5,064</text>
+<text x="50.0" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">5,072</text>
 <text x="50.0" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">May 28, 2019 - present</text>
 <rect x="232.5" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="232.5" y="204" width="3" height="56" rx="1.5" fill="#FB923C"/>
 <text x="250.5" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">CURRENT STREAK</text>
-<text x="250.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">29 days</text>
-<text x="250.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">Oct 22 - Nov 19, 2026</text>
+<text x="250.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">30 days</text>
+<text x="250.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">Oct 22 - Nov 20, 2026</text>
 <rect x="433.0" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="433.0" y="204" width="3" height="56" rx="1.5" fill="#A78BFA"/>
 <text x="451.0" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">LONGEST STREAK</text>
@@ -41,8 +41,8 @@
 <rect x="633.5" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="633.5" y="204" width="3" height="56" rx="1.5" fill="#5FD4FF"/>
 <text x="651.5" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">LAST 12 MONTHS</text>
-<text x="651.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">2,402</text>
-<text x="651.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">313 commits · 4 PRs</text>
+<text x="651.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">2,410</text>
+<text x="651.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">320 commits · 4 PRs</text>
 <text x="32" y="310" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#70A5FD">Contribution activity · last 12 months</text>
 <rect x="32.0" y="322.0" width="11.9" height="11.9" rx="2.5" fill="#2A2E45"/>
 <rect x="32.0" y="336.9" width="11.9" height="11.9" rx="2.5" fill="#2A2E45"/>
@@ -363,7 +363,7 @@
 <rect x="702.8" y="336.9" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="702.8" y="351.8" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="702.8" y="366.7" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
-<rect x="702.8" y="381.6" width="11.9" height="11.9" rx="2.5" fill="#22A9D6"/>
+<rect x="702.8" y="381.6" width="11.9" height="11.9" rx="2.5" fill="#0F7DA0"/>
 <rect x="702.8" y="396.5" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="702.8" y="411.4" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="717.7" y="322.0" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
@@ -413,6 +413,7 @@
 <rect x="807.1" y="351.8" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="807.1" y="366.7" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="807.1" y="381.6" width="11.9" height="11.9" rx="2.5" fill="#5FD4FF"/>
+<rect x="807.1" y="396.5" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <text x="681" y="444" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#565F89">Less</text>
 <rect x="687" y="434" width="12" height="12" rx="2.5" fill="#2A2E45"/>
 <rect x="702" y="434" width="12" height="12" rx="2.5" fill="#0E4F66"/>
@@ -422,19 +423,19 @@
 <text x="766" y="444" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#565F89">More</text>
 <text x="32" y="478.33962264150944" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#70A5FD">Top languages</text>
 <clipPath id="bar"><rect x="32" y="490.33962264150944" width="790" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
-<rect x="32.0" y="490.33962264150944" width="463.2" height="10" fill="#38BDF8"/>
-<rect x="494.7" y="490.33962264150944" width="152.7" height="10" fill="#818CF8"/>
-<rect x="646.9" y="490.33962264150944" width="106.1" height="10" fill="#34D399"/>
-<rect x="752.5" y="490.33962264150944" width="28.0" height="10" fill="#FBBF24"/>
-<rect x="780.0" y="490.33962264150944" width="21.3" height="10" fill="#F472B6"/>
-<rect x="800.8" y="490.33962264150944" width="8.7" height="10" fill="#FB923C"/>
+<rect x="32.0" y="490.33962264150944" width="462.2" height="10" fill="#38BDF8"/>
+<rect x="493.7" y="490.33962264150944" width="152.3" height="10" fill="#818CF8"/>
+<rect x="645.5" y="490.33962264150944" width="105.9" height="10" fill="#34D399"/>
+<rect x="750.9" y="490.33962264150944" width="28.0" height="10" fill="#FBBF24"/>
+<rect x="778.3" y="490.33962264150944" width="21.2" height="10" fill="#F472B6"/>
+<rect x="799.1" y="490.33962264150944" width="8.7" height="10" fill="#FB923C"/>
 </g>
 <circle cx="37" cy="520.3396226415094" r="5" fill="#38BDF8"/>
-<text x="48" y="524.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">JavaScript <tspan fill="#565F89">58.6%</tspan></text>
+<text x="48" y="524.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">JavaScript <tspan fill="#565F89">58.4%</tspan></text>
 <circle cx="307" cy="520.3396226415094" r="5" fill="#818CF8"/>
-<text x="318" y="524.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">PHP <tspan fill="#565F89">19.3%</tspan></text>
+<text x="318" y="524.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">PHP <tspan fill="#565F89">19.2%</tspan></text>
 <circle cx="577" cy="520.3396226415094" r="5" fill="#34D399"/>
-<text x="588" y="524.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">CSS <tspan fill="#565F89">13.4%</tspan></text>
+<text x="588" y="524.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">CSS <tspan fill="#565F89">13.3%</tspan></text>
 <circle cx="37" cy="544.3396226415094" r="5" fill="#FBBF24"/>
 <text x="48" y="548.3396226415094" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#C0CAF5">TypeScript <tspan fill="#565F89">3.5%</tspan></text>
 <circle cx="307" cy="544.3396226415094" r="5" fill="#F472B6"/>
