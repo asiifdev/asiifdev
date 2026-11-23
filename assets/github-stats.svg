@@ -11,12 +11,12 @@
 <rect x="232.5" y="88" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="232.5" y="104" width="3" height="56" rx="1.5" fill="#FBBF24"/>
 <text x="250.5" y="114" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">STARS EARNED</text>
-<text x="250.5" y="144" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">262</text>
+<text x="250.5" y="144" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">263</text>
 <text x="250.5" y="163" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">across public repos</text>
 <rect x="433.0" y="88" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="433.0" y="104" width="3" height="56" rx="1.5" fill="#34D399"/>
 <text x="451.0" y="114" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">FORKS</text>
-<text x="451.0" y="144" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">70</text>
+<text x="451.0" y="144" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">69</text>
 <text x="451.0" y="163" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">of public repos</text>
 <rect x="633.5" y="88" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="633.5" y="104" width="3" height="56" rx="1.5" fill="#F472B6"/>
@@ -26,13 +26,13 @@
 <rect x="32.0" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="32.0" y="204" width="3" height="56" rx="1.5" fill="#818CF8"/>
 <text x="50.0" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">TOTAL CONTRIBUTIONS</text>
-<text x="50.0" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">5,078</text>
+<text x="50.0" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">5,079</text>
 <text x="50.0" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">May 28, 2019 - present</text>
 <rect x="232.5" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="232.5" y="204" width="3" height="56" rx="1.5" fill="#FB923C"/>
 <text x="250.5" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">CURRENT STREAK</text>
-<text x="250.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">0 days</text>
-<text x="250.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">no active streak</text>
+<text x="250.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">1 days</text>
+<text x="250.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">Nov 23 - Nov 23, 2026</text>
 <rect x="433.0" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="433.0" y="204" width="3" height="56" rx="1.5" fill="#A78BFA"/>
 <text x="451.0" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">LONGEST STREAK</text>
@@ -41,8 +41,8 @@
 <rect x="633.5" y="188" width="188.5" height="88" rx="10" fill="#212335"/>
 <rect x="633.5" y="204" width="3" height="56" rx="1.5" fill="#5FD4FF"/>
 <text x="651.5" y="214" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="0.8" fill="#A9B1D6">LAST 12 MONTHS</text>
-<text x="651.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">2,412</text>
-<text x="651.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">325 commits · 4 PRs</text>
+<text x="651.5" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">2,413</text>
+<text x="651.5" y="263" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" fill="#565F89">326 commits · 4 PRs</text>
 <text x="32" y="310" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#70A5FD">Contribution activity · last 12 months</text>
 <rect x="32.0" y="322.0" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="32.0" y="336.9" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
@@ -409,7 +409,7 @@
 <rect x="792.2" y="396.5" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <rect x="792.2" y="411.4" width="11.9" height="11.9" rx="2.5" fill="#2A2E45"/>
 <rect x="807.1" y="322.0" width="11.9" height="11.9" rx="2.5" fill="#2A2E45"/>
-<rect x="807.1" y="336.9" width="11.9" height="11.9" rx="2.5" fill="#2A2E45"/>
+<rect x="807.1" y="336.9" width="11.9" height="11.9" rx="2.5" fill="#0E4F66"/>
 <text x="681" y="444" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#565F89">Less</text>
 <rect x="687" y="434" width="12" height="12" rx="2.5" fill="#2A2E45"/>
 <rect x="702" y="434" width="12" height="12" rx="2.5" fill="#0E4F66"/>
